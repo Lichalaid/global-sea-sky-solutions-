@@ -1,0 +1,80 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": ".",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/contact.html",
+      "destination": "/contact/",
+      "permanent": false
+    },
+    {
+      "source": "/event-abu-dhabi-grand-prix.html",
+      "destination": "/events/abu-dhabi-grand-prix/",
+      "permanent": false
+    },
+    {
+      "source": "/event-dubai-experience.html",
+      "destination": "/events/dubai-experience/",
+      "permanent": false
+    },
+    {
+      "source": "/events.html",
+      "destination": "/events/",
+      "permanent": false
+    },
+    {
+      "source": "/event-pilates-jets-dallas.html",
+      "destination": "/events/pilates-jets-dallas/",
+      "permanent": false
+    },
+    {
+      "source": "/art-horology.html",
+      "destination": "/services/art-horology/",
+      "permanent": false
+    },
+    {
+      "source": "/athletes.html",
+      "destination": "/services/athletes/",
+      "permanent": false
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services/",
+      "permanent": false
+    },
+    {
+      "source": "/investments.html",
+      "destination": "/services/investments/",
+      "permanent": false
+    },
+    {
+      "source": "/private-aviation.html",
+      "destination": "/services/private-aviation/",
+      "permanent": false
+    },
+    {
+      "source": "/private-travel.html",
+      "destination": "/services/private-travel/",
+      "permanent": false
+    },
+    {
+      "source": "/real-estate.html",
+      "destination": "/services/real-estate/",
+      "permanent": false
+    },
+    {
+      "source": "/seabob.html",
+      "destination": "/services/seabob/",
+      "permanent": false
+    },
+    {
+      "source": "/yachts.html",
+      "destination": "/services/yachts/",
+      "permanent": false
+    }
+  ]
+}
